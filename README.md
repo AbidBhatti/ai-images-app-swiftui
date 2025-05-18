@@ -38,8 +38,8 @@ This project is intended as a reference for developers interested in building AI
 
 ### Prerequisites
 
-- **Xcode 15** or later
-- **iOS 17** or later
+- **Xcode 16** or later
+- **iOS 18** or later
 - An **OpenAI API key** (see below)
 
 ### Installation
